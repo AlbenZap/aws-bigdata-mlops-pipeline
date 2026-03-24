@@ -1,0 +1,6 @@
+.DS_Store
+*.csv
+*.pbix
+__pycache__/
+*.pyc
+.env
